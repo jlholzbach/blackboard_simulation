@@ -1,0 +1,58 @@
+Gradebook Project: Group 3
+
+Instructor Features
+1.)	Creating Courses 
+Once logged in, an instructor has the option to create additional courses:
+a.)	The User must give the course a name and type it in the “Course Name” box, then click the “Create” button.
+b.)	The course is then added to the “Current Courses” list on the left-hand side of the screen.
+
+2.)	Creating/Modifying grading schemes & scales
+ 	Once a course is created, an instructor has the option to create/modify a course grading scheme:
+a.)	Select the course you wish to modify form the “Current Courses” list on the left-had side of the screen, then click the “Select” button.
+b.)	Click the “Modify Scheme” button
+c.)	Select the scheme that you wish to modify and click the “Modify Selected Scheme” button
+d.)	Or click the “Create New Scheme” button to create a new grading scheme.
+
+3.)	Creating/Modifying Grading Scales
+Once a course is created, the instructor may add/modify its grading scales by:
+a.)	Select the course you wish to add the student to form the “Current Courses” list on the left-had side of the screen, then click the “Select” button.
+b.)	Click the “Modify Scale” button
+c.)	Select the scale in which to modify and then click the “Modify Selected Scale” button
+d.)	Or click the “Create New Scale” button to create a new grading scale.
+e.)	Select a grading scale from the “Scale List” on the right-hand side of the screen then click the “View Selected Scale Details” button to view the specific details of a grading scale
+
+
+
+
+4.)	Adding a student to a course
+Once a course is created, an instructor has the option to add students to a course:
+a.)	Select the course you wish to add the student to form the “Current Courses” list on the left-had side of the screen, then click the “Select” button.
+b.)	Click the “Students” button
+c.)	Type in the student’s full name, username, and password in the corresponding input boxes, and then click the “Add person” button. The added student will then appear on the “List of students” box on the right-hand side of the screen
+
+d.)	An instructor can also add students to a course from a file by typing the file’s exact directory path in the “File Name” box, and then click the “Scan file” button.
+
+5.)	Add/Remove/Modify Assignments for a course
+Once a course is created, an instructor may add/remove/modify assignments to the course:
+a.)	Select the course you wish to add the student to form the “Current Courses” list on the left-had side of the screen, then click the “Select” button.
+b.)	Click the “Assignments” button
+c.)	Click the “Add Assignment” button
+d.)	Select the category for the assignment, then click “Ok”
+e.)	Give the assignment an ID number, then click “Ok”
+f.)	The assignment is now added to the assignment list and every student’s initial grade is “N/A”. The instructor must manually input the grades for each student for each assignment then, click the “Save Changes” button.
+g.)	The instructor may also delete an assignment from a course by checking it’s check box under the “Remove” column, then click the “Remove Selected Assignments” button, then click “Ok”
+
+6.)	Viewing Student & Grade Reports
+An instructor may also view each student’s report and grade report for a course:
+a.)	Select the course you wish to add the student to form the “Current Courses” list on the left-had side of the screen, then click the “Select” button.
+b.)	Click the “Grade Report” button
+c.)	Select the username of the student for which you view the student report from the “List of Students on the right-hand side of the screen, then click the “View Student Report” button to view.
+d.)	Select the username of the student for which you view the grade report from the “List of Students on the right-hand side of the screen, then click the “View Grade Report” button to view.
+e.)	An instructor may also save student reports and grade reports to a file by typing in the directory in which they desire the file to be saved in, and then clicking the “Print Student Report” or “Print Grade Report” buttons.
+     
+7.)	Archived Courses
+An instructor may set a course to be archived by:
+a.)	Select the course you wish to add the student to form the “Current Courses” list on the left-had side of the screen, then click the “Select” button.
+b.)	Click the “Set Archived” button
+
+
